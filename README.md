@@ -1,6 +1,6 @@
 <img src="https://wallpapercave.com/wp/wp2936933.jpg">
 <h1 align="center">Hola 👋, Me llamo David Pérez Moreno</h1>
-<h3 align="center">Soy un estudiante de último año en Ingeniería Informática con interés en la programación y la tecnología.</h3>
+<h3 align="center">Soy un graduado en Ingeniería Informática con interés en la programación y la tecnología.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpm1002&label=Profile%20views&color=0e75b6&style=flat" alt="dpm1002" /> </p>
 
