@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dpm1002" alt="dpm1002" /></a> </p>
 
-- 📚 Actualmente estoy estudiando en un grado de Ingeniería Informática en la **Universidad de Burgos(UBU)**
+- 📚 Actualmente he terminado un grado de Ingeniería Informática en la **Universidad de Burgos(UBU)** y estoy trabajando en **Diseño y desarrollo de componentes mecánicos para maquina herramienta** en la empresa de **Nicolás Correa**
 
-- 🧑‍💻 Actualmente estoy trabajando en un TFG de DRL(Deep Reinforcement Learning) de Redes Ópticas [TFG-DRL-RedesOpticas](https://github.com/dpm1002/TFG-GII-Aprendizaje-por-refuerzo-Reinforcement-Learning-en-redes-opticas-pasivas)
+- 🧑‍💻 Entre mis proyectos se encuentra el TFG de DRL(Deep Reinforcement Learning) de Redes Ópticas [TFG-DRL-RedesOpticas](https://github.com/dpm1002/TFG-GII-Aprendizaje-por-refuerzo-Reinforcement-Learning-en-redes-opticas-pasivas) lo cual me ayudo a afianzar mis conocimientos sobre las redes y aprender nuevas tecnologias como es el **Machine Learning.**
 
 - 📫 Mi contacto es el siguiente: **davidperezmoreno14@gmail.com**
 
